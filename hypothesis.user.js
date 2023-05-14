@@ -6,8 +6,7 @@
 // @author       https://github.com/invisprints
 // @match        *://*/*
 // @grant        GM_addStyle
-// @updateURL https://github.com/invisprints/hypothesis-userscript/raw/main/
-hypothesis.user.js
+// @updateURL    https://github.com/invisprints/hypothesis-userscript/raw/main/hypothesis.user.js
 // ==/UserScript==
 
 (function() {
