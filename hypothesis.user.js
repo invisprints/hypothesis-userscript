@@ -6,6 +6,7 @@
 // @author       https://github.com/invisprints
 // @match        *://*/*
 // @grant        GM_addStyle
+// @downloadURL    https://github.com/invisprints/hypothesis-userscript/raw/main/hypothesis.user.js
 // @updateURL    https://github.com/invisprints/hypothesis-userscript/raw/main/hypothesis.user.js
 // ==/UserScript==
 
@@ -34,7 +35,7 @@
     btn.innerHTML = "H";
     btn.style.position = "fixed";
     btn.style.top = "33vh";
-    btn.style.right = "10px";
+    btn.style.right = "0px";
     btn.style.zIndex = 5;
     btn.onclick = loadHypothesis;
 
